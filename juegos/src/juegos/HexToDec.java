@@ -12,7 +12,7 @@ public class HexToDec {
         }
         return val;
     }
-
+//modificacion2
 
     public static String decimal2Hex(int d) {
         String digits = "0123456789ABCDEF";
