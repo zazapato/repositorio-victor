@@ -1,6 +1,6 @@
 package juegos;
 public class HexToDec {
-
+//modificacion1
     public static int hex2Decimal(String s) {
         String digitos = "0123456789ABCDEF";
         s = s.toUpperCase();
